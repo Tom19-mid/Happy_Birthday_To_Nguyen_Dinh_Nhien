@@ -162,7 +162,7 @@ Gấu bắn trái tim
   width: 25px;
   height: 25px;
   position: absolute;
-  background-image: url("/Happy_Birthday/images/download.png");
+  background-image: url("../images/download.png");
   background-size: contain;
   background-repeat: no-repeat;
   opacity: 0;
